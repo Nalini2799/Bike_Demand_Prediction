@@ -1,4 +1,5 @@
 # Bike_Demand_Prediction
+## problem statement
 Bike sharing systems are a means of renting bicycles where the process of obtaining membership, rental, and bike return is automated via a network of kiosk locations throughout a city. </br>
 To forecast the demand of bike considering the various factors likes, weather,humidity,hours, departure location, arrival location etc.
 # Steps to approach the problem
