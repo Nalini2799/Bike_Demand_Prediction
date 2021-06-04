@@ -2,7 +2,7 @@
 ## problem statement
 Bike sharing systems are a means of renting bicycles where the process of obtaining membership, rental, and bike return is automated via a network of kiosk locations throughout a city. </br>
 To forecast the demand of bike considering the various factors likes, weather,humidity,hours, departure location, arrival location etc.
-# Steps to approach the problem
+# Steps to approach the problem :
 1. Read the dataset </br>
 2. preliminary analysis of data and droping unnecessary variable which do not add value to the prediction </br>
 3. Visualise data by plotting various graphs in order to see the effect of various features affecting the demand </br>
